@@ -1,5 +1,4 @@
 # Engeto_PowerBI_project
-DISCORD USER Michaela S.#9290
 
 Data for flight passengers come from https://data.worldbank.org/indicator/IS.AIR.PSGR
 
